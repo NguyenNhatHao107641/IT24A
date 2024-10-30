@@ -1,4 +1,4 @@
-public class bai5_2
+public class Bai5_2
 {
     public static void viDu1(){
         int a = 3;
