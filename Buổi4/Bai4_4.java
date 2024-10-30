@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class bai4
+public class Bai4_4
 {
     public static void soChan(int n)
     {
