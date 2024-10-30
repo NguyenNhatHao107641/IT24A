@@ -1,4 +1,4 @@
-public class bai1 
+public class Bai6_1
 {
     public static void tH1()
     {
