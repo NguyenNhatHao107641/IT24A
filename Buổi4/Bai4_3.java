@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class bai3
+public class Bai4_3
 {
     public static void soLe(int n)
     {
