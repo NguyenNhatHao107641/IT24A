@@ -1,4 +1,4 @@
-public class bt1 
+public class bai1
 {
     public static void bai1_1()
     {
