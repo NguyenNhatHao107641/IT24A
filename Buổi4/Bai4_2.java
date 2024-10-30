@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class bai2 {
+public class Bai4_2 {
     public static void bai2Dem(int n){
         System.out.printf("Cac so tu 1 den %d la",n);
         for(int i=1;i<=n;i++){
