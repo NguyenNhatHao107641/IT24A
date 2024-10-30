@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class bai5_1
+public class Bai5_1
 {
     public static int timGiaTriLonNhat(int a,int b){
         return a>b?a:b;
